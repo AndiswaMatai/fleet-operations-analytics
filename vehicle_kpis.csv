@@ -1,0 +1,6 @@
+vehicle_id,vehicle_type,route,total_km,active_days,total_idle_min,harsh_events,total_litres,total_fuel_cost,scheduled_jobs,completed_jobs,total_maint_cost,utilisation_pct,km_per_litre,fuel_cost_per_km,harsh_events_per_100km,idle_ratio,maint_compliance_pct
+V001,Truck,Cape Town–JHB,11558.7,30,1345,47,957.8299999999999,21566.77,1,1,5854.25,100.0,12.07,1.866,0.41,0.075,100.0
+V002,Van,JHB–Durban,9474.5,30,1638,82,767.66,17593.11,1,1,4413.69,100.0,12.34,1.857,0.87,0.091,100.0
+V003,Truck,PE–Cape Town,10338.1,30,1556,92,727.71,16425.78,1,1,5253.0,100.0,14.21,1.589,0.89,0.086,100.0
+V004,Van,JHB–Bloemfontein,10017.6,30,1573,67,726.39,16302.45,2,2,8431.94,100.0,13.79,1.627,0.67,0.087,100.0
+V005,Bakkie,Cape Town–PE,10231.5,30,1613,74,720.79,16021.44,3,2,11919.01,100.0,14.19,1.566,0.72,0.09,66.7
