@@ -1,0 +1,9 @@
+vehicle_id,scheduled_date,maintenance_type,cost,completed
+V001,2026-05-06,Oil change,5854.25,Y
+V002,2026-05-10,Brake inspection,4413.69,Y
+V003,2026-05-10,Brake inspection,5253.0,Y
+V004,2026-05-30,Tyre rotation,1280.45,Y
+V004,2026-05-14,Oil change,7151.49,Y
+V005,2026-05-06,Oil change,5705.63,Y
+V005,2026-05-11,Full service,3760.4,Y
+V005,2026-05-20,Tyre rotation,2452.98,N
