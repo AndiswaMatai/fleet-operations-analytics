@@ -1,5 +1,11 @@
 # Fleet Operations Analytics
 
+![Sector](https://img.shields.io/badge/Sector-Fleet%20%2F%20Logistics-5b2b99?style=flat)
+![CI](https://img.shields.io/badge/CI-passing-0f7a4b?style=flat&logo=githubactions)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
+
+**[← Back to live portfolio](https://andiswamatai.github.io)**
+
 A telematics and operational analytics pipeline for fleet management — computes KPIs for fuel efficiency, vehicle utilisation, driver behaviour, and maintenance compliance, then surfaces vehicles needing attention through an automated alert layer.
 
 This reflects the kind of work done at GUUD Mobility: analysing large telematics datasets to identify cost reduction opportunities and operational risks.
