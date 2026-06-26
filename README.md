@@ -71,6 +71,7 @@ Python · Pandas · Matplotlib · (Azure Data Factory + Databricks + Power BI in
 ---
 
 ## 📂 Project Structure
+```
 fleet-operations-analytics/
 ├── src/            # Core Python modules for ingestion, KPI computation, alerts
 ├── config/         # Thresholds, KPI definitions, environment variables
@@ -84,7 +85,7 @@ fleet-operations-analytics/
 ├── infrastructure/ # Azure Data Factory + Databricks pipeline configs
 ├── Dockerfile      # Containerisation
 └── README.md       # Documentation
-
+```
 
 ---
 
