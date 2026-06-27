@@ -1,2 +1,9 @@
-pandas>=2.0
-matplotlib>=3.7
+# fleet-operations-analytics/requirements.txt
+# Production Databricks Runtime 14.x ships PySpark + Delta natively.
+# These dependencies are for local development, testing, and CI.
+
+pyspark==3.5.1
+delta-spark==3.1.0
+pytest==8.2.0
+pytest-mock==3.14.0
+
